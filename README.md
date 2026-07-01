@@ -1,1 +1,1 @@
-# odin-recipes
+This is going to be a project where I document some recipes. I'll be using this as an opportunity to learn and demonstrate skills related to basic HTML. # odin-recipes
